@@ -1,0 +1,21 @@
+.exhibitors-table tbody tr:nth-child(even) {
+  background: #fafafa;
+}
+
+.box {
+  width: 100%;
+  display: flex;
+}
+
+.sorting-box {
+  width: 50%;
+  margin-right: 10px;
+}
+
+.searching-box {
+  width: 50%;
+}
+
+.searching-box input {
+  width: 100%;
+}
